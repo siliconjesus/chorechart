@@ -1,0 +1,17 @@
+{
+    "Mom": [
+        {
+            "task": "Wash the Dishes",
+            "day": ["Sunday", "Tuesday", "Wednesday", "Friday"]
+        },
+        {
+            "task": "Cook Dinner",
+            "day": "Friday"
+        },
+        {
+            "task": "Feed the Dogs",
+            "day": "Saturday"
+        }
+
+    ]
+}
